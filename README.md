@@ -1,2 +1,2 @@
 # lagbevakning
-Created by Luki Hackwell
+Följ nya lagar från förslag till ikraftträdande
